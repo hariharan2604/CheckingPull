@@ -6,5 +6,14 @@ body{
 }
 
 .links{
-    color: aqua;
+    color: aqua;   
+}
+.link:link{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.link:visited{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
