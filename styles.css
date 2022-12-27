@@ -1,17 +1,21 @@
-body{
+body {
     background-color: black;
     color: beige;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    
+
 }
 
 
-.link:link{
+.link:link {
     color: aliceblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.link:visited{
+.link:visited {
     color: brown;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.link:active {
+    color: chocolate
 }
