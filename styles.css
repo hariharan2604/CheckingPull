@@ -5,17 +5,20 @@ body {
 
 }
 
-
-#link:link {
-    color: aliceblue;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+#name {
+    border: 1px double red;
+    padding: 1px 1px;
+    display: block;
 }
 
-#link:visited {
-    color: brown;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+#Submit {
+    background-origin: padding-box;
+    background-blend-mode: color-dodge;
+    background-color: aqua;
+    color: black;
+    align-items: center;
 }
 
-#link:active {
-    color: chocolate
+.box {
+    display: inline;
 }
